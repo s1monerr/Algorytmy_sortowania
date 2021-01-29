@@ -25,14 +25,14 @@ int main(){
 	//hybrid_quicksort(tab, 0,size-1);
 	//quicksort(tab, 0, size - 1);
 	//quicksort_mediana(tab, 0, size - 1);
-	//heapsort(tab, size);
+	heapsort(tab, size);
 	//quicksort_horae(tab, 0, size - 1);
 	//bubble_sort(tab, size);
 	//bubble_sort_true(tab, size);
 	//merge_sort(tab, size);
 	//merge_hybrid(tab, size);
 	//insert_sort(tab, size);
-	select_sort(tab, size);
+	//select_sort(tab, size);
 
 	auto stop = high_resolution_clock::now();
 	auto duration = duration_cast<microseconds>(stop - start);

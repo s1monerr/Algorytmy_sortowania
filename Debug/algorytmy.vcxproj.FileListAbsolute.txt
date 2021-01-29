@@ -2,3 +2,5 @@ C:\Users\szymo\OneDrive\Pulpit\Studia\SEMESTR III\Algorytmy i struktury\Projects
 C:\Users\szymo\OneDrive\Pulpit\Studia\SEMESTR III\Algorytmy i struktury\Projects\Algorytmy\algorytmy\Debug\algorytmy.pdb
 E:\Studia\SEMESTR III\Algorytmy i struktury\Projects\Algorytmy\algorytmy\Debug\algorytmy.exe
 E:\Studia\SEMESTR III\Algorytmy i struktury\Projects\Algorytmy\algorytmy\Debug\algorytmy.pdb
+E:\Studia\SEMESTR III\Algorytmy i struktury\Projects\Algorytmy\algorytmy\Algorytmy_sortowania\Debug\algorytmy.exe
+E:\Studia\SEMESTR III\Algorytmy i struktury\Projects\Algorytmy\algorytmy\Algorytmy_sortowania\Debug\algorytmy.pdb
